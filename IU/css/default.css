@@ -1,0 +1,13 @@
+﻿html {
+  font-size: 16px;
+}
+body {
+  background: #fff url('./lty.jpg') no-repeat fixed bottom;
+  text-align: left
+} 
+#code {
+  font-size: 2rem;
+}
+#code .keyword {
+  font-weight: 600;
+}
